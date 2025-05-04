@@ -108,7 +108,7 @@ Build a platform that connects NGOs and digital volunteers. The platform allows 
 ## 📽️ Demo & Deliverables
 
 - **Demo Video Link: ** [https://www.youtube.com/watch?v=vf5tSCyeH_U&ab_channel=Collab4Cause]  
-- **Pitch Deck / PPT Link:** []  
+- **Pitch Deck / PPT Link:** [https://drive.google.com/drive/folders/1ZuPcu2gEBHunGlib1EUVPH3VYNeIpF5K?usp=sharing]  
 
 ---
 
